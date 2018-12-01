@@ -49,7 +49,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravel\\Lumen\\": "src/"
+            "devsofpixel7\\skint\\": "src/"
         },
         "files": [
             "src/helpers.php"
